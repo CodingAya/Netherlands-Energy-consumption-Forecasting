@@ -11,4 +11,5 @@ It contains Gas and Electricity data of the Netherlands per year, from 2009 to 2
 - Westlandinfra
 - Rendo
 - Coteq
+
 Each company releases on its website a table with the energy consumption of the areas under its administration.
